@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Título de la aplicación
-st.title("🚀 Mi Primera App en Streamlit")
+st.title("🚀 Mi Primera App en Streamlit o al parecer no, ojala no sacar 0")
 
 # Sidebar
 st.sidebar.header("Panel de Control")
@@ -87,4 +87,5 @@ elif opcion == "Interactivo":
 
 # Footer
 st.divider()
+
 st.caption("Creado con Streamlit")
